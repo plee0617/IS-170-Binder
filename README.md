@@ -1,2 +1,8 @@
 # IS-170-Binder
-for my course IS 170: Machine Learning
+Machine Learning Applications’ Binder
+IS 170
+Stephen Choi
+Spring 2023
+by
+Pang Yia Lee
+
