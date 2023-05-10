@@ -1,6 +1,2 @@
-# Machine Learning Applications’ Binder
-# IS 170 - Stephen Choi- Spring 2023
-# Pang Yia Lee
-**Executive Summary**
-
-This binder dedicated to IS170 is for the sole purpose of summarizing our coding work, as well as to prove our understanding of the machine learning algorithm and the course's topics over the period of the semester. It is going to contain all the algorithms and work we've covered and done throughout the class, put together in a more cohesive way where we're able to view each section in a more clean and detailed manner. As our class was about Machine Learning: a branch of artificial intelligence that focuses on the use of data and algorithms to imitate the way human learns, all of the following works are going to be related to that.
+# Decision Trees
+A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes and leaf nodes. Decision tree learning employs a divide and conquer strategy by conducting a greedy search to identify the optimal split points within a tree. This process of splitting is then repeated in a top-down, recursive manner until all, or the majority of records have been classified under specific class labels. Whether or not all data points are classified as homogenous sets is largely dependent on the complexity of the decision tree.
