@@ -1,9 +1,3 @@
-#           IS-170-Binder
-# Machine Learning Applications’ Binder
-# IS 170
-# Stephen Choi
-# Spring 2023
-# by
-# Pang Yia Lee
-This binder dedicated to IS170 is for the sole purpose of summarizing our coding work, as well as to prove our understanding of the machine learning algorithm and the course's topics over the period of the semester. It is going to contain all the algorithms and work we've covered and done throughout the class, put together in a more cohesive way where we're able to view each section in a more clean and detailed manner.
+# Pandas & Feature Engineering
+Pandas is a software library that is written for Python. It is mainly used for data manipulation and analysis; being a powerful and flexible quantitative tool that has grown into one of the most popular Python libraries.
 
