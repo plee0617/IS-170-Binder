@@ -1,6 +1,2 @@
-# Machine Learning Applications’ Binder
-# IS 170 - Stephen Choi- Spring 2023
-# Pang Yia Lee
-**Executive Summary**
-
-This binder dedicated to IS170 is for the sole purpose of summarizing our coding work, as well as to prove our understanding of the machine learning algorithm and the course's topics over the period of the semester. It is going to contain all the algorithms and work we've covered and done throughout the class, put together in a more cohesive way where we're able to view each section in a more clean and detailed manner. As our class was about Machine Learning: a branch of artificial intelligence that focuses on the use of data and algorithms to imitate the way human learns, all of the following works are going to be related to that.
+# K-means Clustering
+K-means clustering is defined as one of the simplest, yet popular unsupervised machine learning algorithms. The steps usually follows in which you'll define a target number 'k' referring to the number of centroids you need in the dataset. The centroid is the imaginary or location representing the center of the cluster. This algorithm's purpose is to identify the k number of centroid, while keeping the centroids as small as possible.
