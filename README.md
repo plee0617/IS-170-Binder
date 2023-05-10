@@ -1,6 +1,2 @@
-# Machine Learning Applications’ Binder
-# IS 170 - Stephen Choi- Spring 2023
-# Pang Yia Lee
-**Executive Summary**
-
-This binder dedicated to IS170 is for the sole purpose of summarizing our coding work, as well as to prove our understanding of the machine learning algorithm and the course's topics over the period of the semester. It is going to contain all the algorithms and work we've covered and done throughout the class, put together in a more cohesive way where we're able to view each section in a more clean and detailed manner. As our class was about Machine Learning: a branch of artificial intelligence that focuses on the use of data and algorithms to imitate the way human learns, all of the following works are going to be related to that.
+# Regression Models
+Machine Learning Regression is a technique for investigating the relationship between independent variables or features and a dependent variable or outcome. It’s used as a method for predictive modelling in machine learning, in which an algorithm is used to predict continuous outcomes. Solving regression problems is one of the most common applications for machine learning models, especially in supervised machine learning. Algorithms are trained to understand the relationship between independent variables and an outcome or dependent variable. The model can then be leveraged to predict the outcome of new and unseen input data, or to fill a gap in missing data. 
